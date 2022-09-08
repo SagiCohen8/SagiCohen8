@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagi Cohen.
 - 👋 Currently working as a System Engineer.
-- 👀 I’m interested in learning new technologies and programing languages.
+- 👀 I’m interested in learning new technologies and programming languages
 - 🌱 I’m currently learning and mastering python and android.
 - 💞️ I’m looking to collaborate on developing a simple but intresting android game application.
 - 📫 How to reach me:

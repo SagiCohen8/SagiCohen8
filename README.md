@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sagi Cohen.
-- 👋 Currently working as a System Engineer in Oasis Communication Technologies.
+- 👋 Currently working as a System & DevOps Engineer in Oasis Communication Technologies.
 - 👀 I’m interested in learning new technologies and programming languages.
 - 🌱 I’m currently learning and mastering Python and Android.
 - 💞️ I’m looking to collaborate on developing a simple but interesting Android game application.
